@@ -2,7 +2,7 @@
 {
 "sites": [
 {"key":"csp_xbb_555电影","name":"🌤555影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://asjava.cn/ttvv/555电影.json"},
-{"key":"csp_Kuaikan","name":"👀快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
+
 {"key":"csp_xp_libv","name":"🔍Libvio","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://asjava.cn/ttvv/libv.json"},
 {"key":"csp_xp_jLgyy","name":"💧蓝光影院","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://asjava.cn/ttvv/lgyy.json"},
 {"key":"csp_xp_cokemv","name":"💢Cokemv","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://asjava.cn/ttvv/cokemv.json"},
@@ -24,6 +24,7 @@
 {"key":"csp_LiteApple","name":"🍎小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://asjava.cn/ttvv/fty.jar"},
 
 {"key":"csp_Kunyu77","name":"🔍酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+  {"key":"csp_Kuaikan","name":"👀快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"dr_豆瓣","name":"🔍豆瓣荐片(js)","type":3,"api":"https://gitcode.net/qq_32394351/drpy/-/raw/master/libs/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitcode.net/qq_32394351/drpy/-/raw/master/js/drpy.js"},
 {"key":"T4_douban2","name":"🔍影视推荐2(T4)","type":4,"api":"https://t4.饭太硬.ml/vod","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_ZJMiao","name":"🐱追剧喵","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
