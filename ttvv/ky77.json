@@ -4,7 +4,7 @@
     "是否启用解析模式": "1",
     "ua": "okhttp/3.12.0",
     "User": "空",
-    "fenlei": "热播推荐$http://api.tyun77.cn/api.php/provide/homeBlock?type_id=0pagenum=&#电视剧$http://api.tyun77.cn/api.php/provide/searchFilter?type_id=2&pagenum=#电影$http://api.tyun77.cn/api.php/provide/searchFilter?type_id=1&pagenum=#综艺$http://api.tyun77.cn/api.php/provide/searchFilter?type_id=3&pagenum=#动漫$http://api.tyun77.cn/api.php/provide/searchFilter?type_id=4&pagenum=",
+    "fenlei": "热播推荐$http://api.tyun77.cn/api.php/provide/homeBlock?type_id=0pagenum=&#电视剧$http://api.tyun77.cn/api.php/provide/homeBlock?type_id=2&pagenum=#电影$http://api.tyun77.cn/api.php/provide/homeBlock?type_id=1&pagenum=#综艺$http://api.tyun77.cn/api.php/provide/homeBlock?type_id=3&pagenum=#动漫$http://api.tyun77.cn/api.php/provide/homeBlock?type_id=4&pagenum=",
     "houzhui": "&pagesize=24",
     "shifouercijiequ": "0",
     "jiequqian": "空",
