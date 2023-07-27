@@ -321,7 +321,7 @@
 {"name":"CK解析","type":1,"url":"http://api.ckflv.cn/?url=","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}}
   ],
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
-"spider":"https://asjava.cn/ttvv/2212.jar;md5;80DA9A5A82CDCE90317FD19B7FAA1890",
+"spider":"https://gitee.com/jayjd/vstd/releases/download/1.0.1/2212.jar;md5;80DA9A5A82CDCE90317FD19B7FAA1890",
 "lives":[{"name":"live","type":0,"url":"https://asjava.cn/ttvv/live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"],
 "ijk":[
