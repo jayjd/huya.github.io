@@ -10,7 +10,20 @@
 凤凰资讯,http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8
 星空卫视,http://[2001:da8:500d:4::102]/hls/startv.m3u8
 星空卫视,http://113.117.74.12:8081/hls/87/index.m3u8
-ChannelV,http://[2001:da8:500d:4::102]/hls/channelv.m3u8
+星空卫视,http://120.84.96.87:808/hls/79/index.m3u8
+星空卫视,http://113.117.74.21:8081/hls/87/index.m3u8
+星空卫视,http://120.84.96.82:808/hls/79/index.m3u8
+星空卫视,http://120.84.96.89:808/hls/79/index.m3u8
+星空卫视,http://120.84.96.23:808/hls/79/index.m3u8
+星空卫视,http://120.84.96.28:808/hls/79/index.m3u8
+星空卫视,http://120.84.96.73:808/hls/79/index.m3u8
+星空卫视,http://120.84.96.108:808/hls/79/index.m3u8
+星空卫视,http://120.84.96.113:808/hls/79/index.m3u8
+星空卫视,http://120.84.96.50:808/hls/79/index.m3u8
+星空卫视,http://113.117.74.8:808/hls/87/index.m3u8
+星空卫视,http://vl15191373.imwork.net:8880/udp/239.93.0.156:2193
+Channel V,http://vl15191373.imwork.net:8880/udp/239.93.0.157:2194
+Channel V,http://[2001:da8:500d:4::102]/hls/channelv.m3u8
 凤凰香港,http://66.181.39.224/ml.php?id=hkphoenix_twn
 凤凰香港,http://113.117.74.12:8081/hls/38/index.m3u8
 凤凰电影,http://218.202.220.2:5000/nn_live.ts?id=NEWSASIA
