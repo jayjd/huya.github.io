@@ -14,7 +14,7 @@
   "jiequhou": "<div id=\"module-footer\">",
   "jiequshuzuqian": "<a",
   "jiequshuzuhou": "no-referrer",
-  "tupianqian": "original=\"",
+  "tupianqian": "data-src=\"",
   "tupianhou": "\"",
   "biaotiqian": "title=\"",
   "biaotihou": "\"",
