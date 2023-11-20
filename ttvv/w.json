@@ -10,7 +10,7 @@
 {"key":"csp_xp_zxzj2","name":"💢在线之家","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jayjd.github.io/ttvv/zxzj.json"},
 {"key":"csp_xbb_影视工厂","name":"💢影视工厂","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://jayjd.github.io/ttvv/影视工厂.json"},
 {"key":"csp_Kunyu7","name":"🌤酷云七七","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://jayjd.github.io/ttvv/ky77.json"},
-{"key":"csp_lz","name":"🌤量子影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://jayjd.github.io/ttvv/lz.json"},
+{"key":"csp_lz","name":"🌤量子影视","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jayjd.github.io/ttvv/lz.json"},
 
 {"key":"csp_xbb_139影视","name":"🍀139影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.liucn.cc/box/sub/MeowXB/139影视.json"}, 
 {"key":"csp_xbb_爱看影视","name":"🍀爱看影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.liucn.cc/box/sub/MeowXB/爱看影视.json"},
