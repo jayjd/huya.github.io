@@ -55,7 +55,7 @@
     "dtUrlNode": "//div[@class='scroll-content']",
     "dtUrlSubNode": "/a",
     "dtUrlId": "//div[@class='scroll-content']/a/@href",
-    "dtUrlIdR": "/index.php/vod/play/id/(\\S+).html",
+    "dtUrlIdR": "/index.php/vod/detail/id/(\\S+).html",
     "dtUrlName": "//div[@class='scroll-content']/a/span/text()",
     "dtUrlNameR": "",
     "playUrl": "https://www.lzizy9.com/index.php/vod/play/id/{playUrl}.html",
