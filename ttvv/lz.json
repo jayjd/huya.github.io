@@ -17,7 +17,7 @@
     "cateUrl": "https://www.lzizy9.com/index.php/vod/show/id/{cateId}.html",
     "cateVodNode": "//div[@class='module-item']",
     "cateVodName": "//a[@class='module-item-title']/@title",
-    "cateVodId": "//div[@class='module-item-titlebox']/a/@href",
+    "cateVodId": "//a[@class='module-item-title']/@href",
     "cateVodIdR": "/index.php/vod/detail/id/(\\w+).html",
     "cateVodImg": "//img[@class='lazy lazyloaded']/@data-src",
     "cateVodImgR": "",
