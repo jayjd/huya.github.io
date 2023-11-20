@@ -22,7 +22,7 @@
     "homeVodImgR": "",
     "homeVodMark": "//div[@class='module-item-note']/text()",
     "cateUrl": "https://www.lzizy9.com/index.php/vod/show/id/{cateId}.html",
-    "cateVodNode": "//a[@class='module-item-title']",
+    "cateVodNode": "//div[@class='module-item']",
     "cateVodName": "/@title",
     "cateVodId": "/@href",
     "cateVodIdR": "/index.php/vod/detail/id/(\\w+).html",
