@@ -26,7 +26,7 @@
     "cateVodName": "/@title",
     "cateVodId": "/@href",
     "cateVodIdR": "/voddetail/(\\w+).html",
-    "cateVodImg": "//div[@class='lazy lazyloaded']/img/@data-original",
+    "cateVodImg": "//img[@class='lazy lazyloaded']/@data-original",
     "cateVodImgR": "",
     "cateVodMark": "//div[@class='module-item-text']/text()",
     "dtUrl": "https://www.lzizy9.com/voddetail/{vid}.html",
