@@ -15,7 +15,7 @@
 		"体育": "40"
     },
     "homeVodNode": "//a[@class='module-poster-item module-item']",
-    "homeVodName": "//div[@class='module-item-titlebox']/@title",
+    "homeVodName": "//div[@class='module-item-titlebox']/a/@title",
     "homeVodId": "/@href",
     "homeVodIdR": "/index.php/vod/detail/id/(\\w+).html",
     "homeVodImg": "//div[@class='module-item-pic']/img/@data-src",
