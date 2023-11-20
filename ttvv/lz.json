@@ -16,7 +16,7 @@
     },
     "homeVodNode": "//a[@class='module-poster-item module-item']",
     "homeVodName": "//div[@class='module-item-titlebox']/a/@title",
-    "homeVodId": "/@href",
+    "homeVodId": "//div[@class='module-item-titlebox']/a/@href",
     "homeVodIdR": "/index.php/vod/detail/id/(\\w+).html",
     "homeVodImg": "//div[@class='module-item-pic']/img/@data-src",
     "homeVodImgR": "",
