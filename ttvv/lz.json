@@ -15,7 +15,7 @@
 		"体育": "40"
     },
     "homeVodNode": "//a[@class='module-poster-item module-item']",
-    "homeVodName": "/@title",
+    "homeVodName": "//div[@class='module-item-titlebox']/@title",
     "homeVodId": "/@href",
     "homeVodIdR": "/index.php/vod/detail/id/(\\w+).html",
     "homeVodImg": "//div[@class='module-item-pic']/img/@data-original",
@@ -26,7 +26,7 @@
     "cateVodName": "//div[@class='module-item-title']/text()",
     "cateVodId": "/@href",
     "cateVodIdR": "/index.php/vod/detail/id/(\\w+).html",
-    "cateVodImg": "//img[@class='lazy lazyloaded']/@data-original",
+    "cateVodImg": "//div[@class='module-item-pic']/img/@data-original",
     "cateVodImgR": "",
     "cateVodMark": "//div[@class='module-item-text']/text()",
     "dtUrl": "https://www.lzizy9.com/index.php/vod/detail/id/{vid}.html",
