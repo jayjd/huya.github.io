@@ -47,7 +47,7 @@
     "dtDirectorR": "",
     "dtActor": "//span[contains(text(), '主演')]/following-sibling::div/a/text()",
     "dtActorR": "",
-    "dtDesc": "//div[@class='video-info-item video-info-content vod_content']/text()",
+    "dtDesc": "",
     "dtDescR": "",
     "dtFromNode": "//div[@id='sort-item-1']/div/span",
     "dtFromName": "/text()",
