@@ -22,13 +22,13 @@
     "cateVodImg": "//img[@class='lazy lazyloaded']/@data-src", //图片地址
     "cateVodImgR": "",
     "cateVodMark": "//div[@class='module-item-text']/text()", //标签
-    "homeVodNode": "//a[@class='module-poster-item module-item']",
-    "homeVodName": "//div[@class='module-item-titlebox']/text()",
-    "homeVodId": "//div[@class='module-item-titlebox']/a/@href",
+    "homeVodNode": "//div[@class='module-item']",
+    "homeVodName": "//a[@class='module-item-title']/@title",
+    "homeVodId": "//a[@class='module-item-title']/@href",
     "homeVodIdR": "/index.php/vod/detail/id/(\\w+).html",
     "homeVodImg": "//img[@class='lazy lazyloaded']/@data-src",
     "homeVodImgR": "",
-    "homeVodMark": "//div[@class='module-item-note']/text()",
+    "homeVodMark": "//div[@class='module-item-text']/text()",
     "dtUrl": "https://www.lzizy9.com/index.php/vod/detail/id/{vid}.html",
     "dtNode": "//body",
     "dtName": "//div[@class='video-info-header']/h1/text()",
