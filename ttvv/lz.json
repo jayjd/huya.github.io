@@ -58,7 +58,7 @@
     "dtUrlIdR": "/vodplay/(\\S+).html",
     "dtUrlName": "/span/text()",
     "dtUrlNameR": "",
-    "playUrl": "https://www.lzizy9.com/vodplay/{playUrl}.html",
+    "playUrl": "https://www.lzizy9.com/index.php/vod/play/id/{playUrl}.html",
     "playUa": "",
     "searchUrl": "https://www.lzizy9.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=10",
     "scVodNode": "json:list",
