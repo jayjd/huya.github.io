@@ -49,7 +49,7 @@
     "dtActorR": "",
     "dtDesc": "//div[@class='video-info-item video-info-content vod_content']/text()",
     "dtDescR": "",
-    "dtFromNode": "//div[@class='module-tab-content']/div/span",
+    "dtFromNode": "//div[@id='sort-item-1']/div/span",
     "dtFromName": "/text()",
     "dtFromNameR": "",
     "dtUrlNode": "//div[@class='scroll-content']",
