@@ -1,11 +1,11 @@
 {
-    "versionName": "2.0.2",
-    "download": "https://gitee.com/jayjd/hyy/releases/download/2.0.2/HuYa-2.0.2-20240129.apk",
-    "versionCode": 202,
+    "versionName": "2.0.3",
+    "download": "https://gitee.com/jayjd/hyy/releases/download/2.0.3/HuYa-2.0.3-20240131.apk",
+    "versionCode": 203,
     "entity":"c4BdJ+OTVMWUcOw2+oDd7aN6N0NdAVohfZwnPILzzvBIlaATHy+h4kaGzBYWQC+HoyfWhv+IK22e8DYZMKeSD5It+YRzzMxe1WNA1c3HjTRGhswWFkAvhwGbFxRevfDJoFA8lNOfTHZ51IBxd312dPGBAQi/hlU9sWk7Ci7CJWxsUUKXrmmbsfhwsYT75OeZB6/TM3Wy67uI+4TOHh4eur5/pz2PpBAw9WGYecXkurRhAXjjtwUflbyLSS0838mFRro3s2e+Yj0c+Wq1wXzsHsvzMxSANTOHzS5xD+olD0TXTH7SKIT1swlXuC7FJZuY0DoGB4nufMnB4xzroxabYKt2618bj8P/NcoGhpZnRMuFiXcCKjJbDuje7uVAUFYaN/HZxUq2YEwGQw/iek8iCEDNjUycC0bQ+dRvDpwNv7TsFK/H4kCPp42WU/fsbzGf",
     "type":"2Kg0apEWeo2oU+WitzoYOPVhmHnF5Lq0lwnGLWbaBw8jsCDCEAP+qA==",
     "XLive":"MTp8t3YWTL7/tn0P+SLHDeFhLb89dPy+aBDrIAAGXIjOFiWTsJR71Q==",
 	    "XLive_Message":"未开播",
     "appreciate":1,
-    "info":"HuYa 2.0.2 更新日志\n1.适配安卓13 14\n2.修复 抖音无法观看CSGO\n3.修复 在安卓10以上无法在线更新\n4.修复 部分直播间没有超高清信息导致的闪退\n5.修复 虎牙订阅列表未开播显示绿色\n6.优化 直播播放帧率（根据性能选择最高配）\n7.优化 启动进入首页的速度\n关于出现SSL问题或者其他访问链接异常的情况，已进行修复（没有测试环境只能模拟器已通过测试）。\nPs:建议所有用户升级，一周后1.0.31版本初始化连接将被移除。"
+    "info":"HuYa 2.0.2 更新日志\n1.修复 一起看无法观看的问题\n2.修复 抖音列表读取\n3.修复 订阅列表开播状态显示\n关于出现SSL问题或者其他访问链接异常的情况，已进行修复（没有测试环境只能模拟器已通过测试）。\nPs:建议所有用户升级，一周后1.0.31版本初始化连接将被移除。"
 }
