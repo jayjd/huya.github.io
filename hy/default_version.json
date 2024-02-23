@@ -1,11 +1,11 @@
 {
-    "versionName": "2.0.3",
-    "download": "https://gitee.com/jayjd/hyy/releases/download/2.0.3/HuYa-2.0.3-20240201.apk",
-    "versionCode": 203,
+    "versionName": "2.1.0",
+    "download": "https://gitee.com/jayjd/hyy/releases/download/2.1.0/HuYa-2.1.0-20240223.apk",
+    "versionCode": 210,
     "entity":"c4BdJ+OTVMWUcOw2+oDd7aN6N0NdAVohfZwnPILzzvBIlaATHy+h4kaGzBYWQC+HoyfWhv+IK22e8DYZMKeSD5It+YRzzMxe1WNA1c3HjTRGhswWFkAvhwGbFxRevfDJoFA8lNOfTHZ51IBxd312dPGBAQi/hlU9sWk7Ci7CJWxsUUKXrmmbsfhwsYT75OeZB6/TM3Wy67uI+4TOHh4eur5/pz2PpBAw9WGYecXkurRhAXjjtwUflbyLSS0838mFRro3s2e+Yj0c+Wq1wXzsHsvzMxSANTOHzS5xD+olD0TXTH7SKIT1swlXuC7FJZuY0DoGB4nufMnB4xzroxabYKt2618bj8P/NcoGhpZnRMuFiXcCKjJbDuje7uVAUFYaN/HZxUq2YEwGQw/iek8iCEDNjUycC0bQ+dRvDpwNv7TsFK/H4kCPp42WU/fsbzGf",
     "type":"2Kg0apEWeo2oU+WitzoYOPVhmHnF5Lq0lwnGLWbaBw8jsCDCEAP+qA==",
     "XLive":"MTp8t3YWTL7/tn0P+SLHDeFhLb89dPy+aBDrIAAGXIjOFiWTsJR71Q==",
 	    "XLive_Message":"未开播",
     "appreciate":1,
-    "info":"HuYa 2.0.3 更新日志\n1.修复 一起看无法观看的问题\n2.修复 抖音列表读取\n3.修复 订阅列表开播状态显示\n关于出现SSL问题或者其他访问链接异常的情况，已进行修复（没有测试环境只能模拟器已通过测试）。\nPs:建议所有用户升级，一周后1.0.31版本初始化连接将被移除。"
+    "info":"HuYa 2.1.0 更新日志\n1.使用全新的版本升级下载框架\n2.增加 收藏夹功能（可添加，删除）\n3.增加 播放页增加收藏功能\n4.增加 搜索功能（仅限虎牙）\n5.增加 直播推送功能（支持虎牙和抖音）\n关于出现SSL问题或者其他访问链接异常的情况，已进行修复（没有测试环境只能模拟器已通过测试）。\nPs:建议所有用户升级，一周后1.0.31版本初始化连接将被移除。"
 }
