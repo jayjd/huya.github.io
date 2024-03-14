@@ -1,12 +1,11 @@
 {
-    "versionName": "2.1.2",
-    "download": "https://gitee.com/jayjd/hyy/releases/download/2.1.2/HuYa-2.1.2-20240313.apk",
-    "versionCode": 212,
+    "versionName": "2.1.3",
+    "download": "https://gitee.com/jayjd/hyy/releases/download/2.1.3/HuYa-2.1.3-20240314.apk",
+    "versionCode": 213,
     "entity":"c4BdJ+OTVMWUcOw2+oDd7aN6N0NdAVohfZwnPILzzvBIlaATHy+h4kaGzBYWQC+HoyfWhv+IK22e8DYZMKeSD5It+YRzzMxe1WNA1c3HjTRGhswWFkAvhwGbFxRevfDJoFA8lNOfTHZ51IBxd312dPGBAQi/hlU9sWk7Ci7CJWxsUUKXrmmbsfhwsYT75OeZB6/TM3Wy67uI+4TOHh4eur5/pz2PpBAw9WGYecXkurRhAXjjtwUflbyLSS0838mFRro3s2e+Yj0c+Wq1wXzsHsvzMxSANTOHzS5xD+olD0TXTH7SKIT1swlXuC7FJZuY0DoGB4nufMnB4xzroxabYKt2618bj8P/NcoGhpZnRMuFiXcCKjJbDuje7uVAUFYaN/HZxUq2YEwGQw/iek8iCEDNjUycC0bQ+dRvDpwNv7TsFK/H4kCPp42WU/fsbzGf",
     "type":"2Kg0apEWeo2oU+WitzoYOPVhmHnF5Lq0lwnGLWbaBw8jsCDCEAP+qA==",
     "XLive":"MTp8t3YWTL7/tn0P+SLHDeFhLb89dPy+aBDrIAAGXIjOFiWTsJR71Q==",
 	    "XLive_Message":"未开播",
     "appreciate":1,
-    "info":"HuYa 2.1.2 更新日志\n1.修复 虎牙直播断流问题\n2.修复 订阅列表和扫码弹窗无法返回的问题\n3.修复 长按直播间收藏奔溃的问题\n4.优化 无法进入首页的问题\n5.优化 弹幕设置页的布局\n6.增加 一级和二级分类弹窗\n7.增加 播放页弹幕连接状态，可点击进行重连\n8.增加 长按收藏夹可以清空收藏夹内容"
+    "info":"HuYa 2.1.3 更新日志\n1.修复 一起看断流问题\n2.修复 订阅列表和首页进入无法收藏的问题\n3.适配 手机、平板、车机在播放页打开线路，猜你喜欢和弹幕设置\n4.增加 默认记录每个直播间的最后选择线路"
 }
-
