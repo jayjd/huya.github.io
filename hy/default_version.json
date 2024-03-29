@@ -1,12 +1,12 @@
 {
-    "versionName": "2.1.5",
-    "download": "https://gitee.com/jayjd/hyy/releases/download/2.1.5/HuYa-2.1.5-20240320.apk",
-    "versionCode": 215,
+    "versionName": "2.1.6",
+    "download": "https://gitee.com/jayjd/hyy/releases/download/2.1.6/HuYa-2.1.6-20240329.apk",
+    "versionCode": 216,
     "admiration": "MoCh3v8XTJiEOQhSYo3WLj05JEJWwnndwwcf8FX747Q/dfH6oAaUT7FeWihCTpDwe4EE6fv8zSu7aiieFIbuQjE6fLd2Fky+QI/ou2oaM+ctpt/1+h1JXqWmEyetvlg81/9YnrPBIx4MCAwODwIG2v0xEm+Rn4PNmHcJrYuBQ0gwPCVg/QJ4fNsDGxx4L6ivxPTc10jbBJEi+THdaxaP/lc6XsK0GP2+yEWIhtAdJ+84uONM9Dy7B8qONdR+CVsL",
     "entity":"c4BdJ+OTVMWUcOw2+oDd7aN6N0NdAVohfZwnPILzzvBIlaATHy+h4kaGzBYWQC+HoyfWhv+IK22e8DYZMKeSD5It+YRzzMxe1WNA1c3HjTRGhswWFkAvhwGbFxRevfDJoFA8lNOfTHZ51IBxd312dPGBAQi/hlU9sWk7Ci7CJWxsUUKXrmmbsfhwsYT75OeZB6/TM3Wy67uI+4TOHh4eur5/pz2PpBAw9WGYecXkurRhAXjjtwUflbyLSS0838mFRro3s2e+Yj0c+Wq1wXzsHsvzMxSANTOHzS5xD+olD0TXTH7SKIT1swlXuC7FJZuY0DoGB4nufMnB4xzroxabYKt2618bj8P/NcoGhpZnRMuFiXcCKjJbDuje7uVAUFYaN/HZxUq2YEwGQw/iek8iCEDNjUycC0bQ+dRvDpwNv7TsFK/H4kCPp42WU/fsbzGf",
     "type":"2Kg0apEWeo2oU+WitzoYOPVhmHnF5Lq0lwnGLWbaBw8jsCDCEAP+qA==",
     "XLive":"MTp8t3YWTL7/tn0P+SLHDeFhLb89dPy+aBDrIAAGXIjOFiWTsJR71Q==",
 	    "XLive_Message":"未开播",
     "appreciate":1,
-    "info":"HuYa 2.1.5 更新日志\n紧急修复:虎牙断流问题\nHuYa 2.1.4 更新日志\n1.增加 斗鱼直播（仅支持直播推送，支持线路、清晰度、收藏等功能）\n2.增加 抖音清晰度选择\n3.增加 直播画面比例设置\n4.修复 正在播放再次推送地址出现4001的问题\n5.修复 首页空白的问题\n6.增加 播放页添加、删除收藏功能\n7.增加 手机平板横竖屏适配\n8.增加 清晰度、线路记录\n9.增加 收藏夹备份、恢复/安装APP\n10.增加 7天内免提醒更新"
+    "info":"HuYa 2.1.6 更新日志\n1.增加 快手/斗鱼直播推送\n2.增加 斗鱼直播弹幕\n3.增加 播放页时间显示\n4.增加 推送弹窗免更新按钮的设置与取消\n5.增加 各种动画显示\n6.优化 推送界面把（虎牙、抖音、斗鱼直播推送合并）\n7.修复 启动出现短暂白屏的问题\n8.修复 TCL抖音无弹幕功能\n9.修复 二次进入收藏夹出现奔溃的问题"
 }
