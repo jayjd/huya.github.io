@@ -1,12 +1,12 @@
 {
-    "versionName": "2.1.7",
-    "download": "https://gitee.com/jayjd/hyy/releases/download/2.1.7/HuYa-2.1.7-20240410.apk",
-    "versionCode": 217,
+    "versionName": "2.1.8",
+    "download": "https://gitee.com/jayjd/hyy/releases/download/2.1.8/HuYa-2.1.8-20240411.apk",
+    "versionCode": 218,
     "admiration": "MoCh3v8XTJiEOQhSYo3WLj05JEJWwnndwwcf8FX747Q/dfH6oAaUT7FeWihCTpDwe4EE6fv8zSu7aiieFIbuQjE6fLd2Fky+QI/ou2oaM+ctpt/1+h1JXqWmEyetvlg81/9YnrPBIx4MCAwODwIG2v0xEm+Rn4PNmHcJrYuBQ0gwPCVg/QJ4fNsDGxx4L6ivxPTc10jbBJEi+THdaxaP/lc6XsK0GP2+yEWIhtAdJ++VVQA28D373H7RUjnhq2TzaC3Z69aUkRc+HhLfVhZPWdVTe+z9rpzXRAj1855TMzqv7GhVNAmstfTVpMcizs7jifkbIjJoP8jj+PQGmg6mRNVy1JqKQg7ove2ovHekhpBrA1N666yxiKRXPaznxY43hOIk6Y38CtNTuC7wXUPl8vDBjTCP/AMRW5fOP5N+Iyts0QDfgSon1GnKJ2UWYXsMS2XdTk/euDmnCT+cJD2Fx3NaW22QtrEmwWlVOlrjox3rEPr9PAZSdsoJoHMnc1BqeOxsjI2uyakxvD019316JyexcH0SAQPUYLjAqHK8+3+pWHadvgot1WJcFNhHoqNJnXevULMjde7KQeq7Q6WDgLl0sQEIlVcG9WGYecXkurS/wiW3rO/O387BO2RL5XrrEG6+FkR72lo=",
     "entity":"c4BdJ+OTVMWUcOw2+oDd7aN6N0NdAVohfZwnPILzzvBIlaATHy+h4kaGzBYWQC+HoyfWhv+IK22e8DYZMKeSD5It+YRzzMxe1WNA1c3HjTRGhswWFkAvhwGbFxRevfDJoFA8lNOfTHZ51IBxd312dPGBAQi/hlU9sWk7Ci7CJWxsUUKXrmmbsfhwsYT75OeZB6/TM3Wy67uI+4TOHh4eur5/pz2PpBAw9WGYecXkurRhAXjjtwUflbyLSS0838mFRro3s2e+Yj0c+Wq1wXzsHsvzMxSANTOHzS5xD+olD0TXTH7SKIT1swlXuC7FJZuY0DoGB4nufMnB4xzroxabYKt2618bj8P/NcoGhpZnRMuFiXcCKjJbDuje7uVAUFYaN/HZxUq2YEwGQw/iek8iCEDNjUycC0bQ+dRvDpwNv7TsFK/H4kCPp42WU/fsbzGf",
     "type":"2Kg0apEWeo2oU+WitzoYOPVhmHnF5Lq0lwnGLWbaBw8jsCDCEAP+qA==",
     "XLive":"MTp8t3YWTL7/tn0P+SLHDeFhLb89dPy+aBDrIAAGXIjOFiWTsJR71Q==",
 	    "XLive_Message":"未开播",
     "appreciate":1,
-    "info":"HuYa 2.1.7 更新日志\n1.增加 哔哩哔哩直播推送（原画需登录）\n2.优化 播放页【左键】收藏夹列表\n3.优化 启动读取配置文件的速度\n4.优化 猜你喜欢安卓6.0黑屏的问题\n5.优化 收藏夹删除逻辑"
+    "info":"HuYa 2.1.8 更新日志\n1.优化 部分设备直播黑屏的问题\n2.优化 时间显示 24小时制\n3.优化 点击顶部信息按钮奔溃的问题"
 }
