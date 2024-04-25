@@ -8,5 +8,6 @@
     "XLive":"MTp8t3YWTL7/tn0P+SLHDeFhLb89dPy+aBDrIAAGXIjOFiWTsJR71Q==",
 	    "XLive_Message":"未开播",
     "appreciate":0,
+    "festival": "https://gitee.com/jayjd/hyt/releases/download/2.1.0/51.png",
     "info":"HuYa 2.1.8 更新日志\n1.优化 部分设备直播黑屏的问题\n2.优化 时间显示 24小时制\n3.优化 点击顶部信息按钮奔溃的问题"
 }
