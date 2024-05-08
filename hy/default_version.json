@@ -1,7 +1,7 @@
 {
-    "versionName": "2.1.10",
-    "download": "https://gitee.com/jayjd/hyy/releases/download/2.1.10/HuYa-2.1.10-20240430.apk",
-    "versionCode": 2110,
+    "versionName": "2.1.11",
+    "download": "https://gitee.com/jayjd/hyy/releases/download/2.1.11/HuYa-2.1.11-20240508.apk",
+    "versionCode": 2111,
     "admiration": "MoCh3v8XTJiEOQhSYo3WLj05JEJWwnndwwcf8FX747Q/dfH6oAaUT7FeWihCTpDwe4EE6fv8zSu7aiieFIbuQjE6fLd2Fky+QI/ou2oaM+ctpt/1+h1JXqWmEyetvlg81/9YnrPBIx4MCAwODwIG2v0xEm+Rn4PNmHcJrYuBQ0gwPCVg/QJ4fNsDGxx4L6ivxPTc10jbBJEi+THdaxaP/lc6XsK0GP2+yEWIhtAdJ++VVQA28D373H7RUjnhq2TzaC3Z69aUkRc+HhLfVhZPWdVTe+z9rpzXRAj1855TMzqv7GhVNAmstfTVpMcizs7jifkbIjJoP8jj+PQGmg6mRNVy1JqKQg7ove2ovHekhpBrA1N666yxiKRXPaznxY43hOIk6Y38CtNTuC7wXUPl8vDBjTCP/AMRW5fOP5N+Iyts0QDfgSon1GnKJ2UWYXsMS2XdTk/euDmnCT+cJD2Fx3NaW22QtrEmwWlVOlrjox3rEPr9PAZSdsoJoHMnc1BqeOxsjI2uyakxvD019316JyexcH0SAQPUYLjAqHK8+3+pWHadvgot1WJcFNhHoqNJnXevULMjde7KQeq7Q6WDgLl0sQEIlVcG9WGYecXkurS/wiW3rO/O387BO2RL5XrrEG6+FkR72lo=",
     "entity":"c4BdJ+OTVMWUcOw2+oDd7aN6N0NdAVohfZwnPILzzvBIlaATHy+h4kaGzBYWQC+HoyfWhv+IK22e8DYZMKeSD5It+YRzzMxe1WNA1c3HjTRGhswWFkAvhwGbFxRevfDJoFA8lNOfTHZ51IBxd312dPGBAQi/hlU9sWk7Ci7CJWxsUUKXrmmbsfhwsYT75OeZB6/TM3Wy67uI+4TOHh4eur5/pz2PpBAw9WGYecXkurRhAXjjtwUflbyLSS0838mFRro3s2e+Yj0c+Wq1wXzsHsvzMxSANTOHzS5xD+olD0TXTH7SKIT1swlXuC7FJZuY0DoGB4nufMnB4xzroxabYKt2618bj8P/NcoGhpZnRMuFiXcCKjJbDuje7uVAUFYaN/HZxUq2YEwGQw/iek8iCEDNjUycC0bQ+dRvDpwNv7TsFK/H4kCPp42WU/fsbzGf",
     "type":"2Kg0apEWeo2oU+WitzoYOPVhmHnF5Lq0lwnGLWbaBw8jsCDCEAP+qA==",
@@ -9,5 +9,6 @@
 	    "XLive_Message":"未开播",
     "appreciate":0,
     "festival": "https://gitee.com/jayjd/hyt/releases/download/2.1.0/51.png",
-    "info":"HuYa 2.1.10 更新日志\n1.修复 斗鱼和哔哩哔哩部分直播间无法播放的问题\n2.去除 快手的购物和其他频道\n3.修复 快手进入直播间显示未开播的问题（暂不支持快手的收藏和直播推送）\n4.增加 快手直播间列表翻页的功能\n5.修复 导航未加载完成 点击后导致的奔溃问题\n6.修复 直播页显示收藏夹无法选择第一行直播间\n祝大家五一劳动节快乐!"
+    "info":"HuYa 2.1.11 更新日志\n1.增加 哔哩哔哩直播弹幕\n2.优化 软件弹窗在手机上显示的布局异常\n3.增加 点击哔哩哔哩登录后提示消息\n4.重构 弹幕设置/一级导航/二级导航弹窗显示\n5.修复 斗鱼未开播返回直播列表"
 }
+
