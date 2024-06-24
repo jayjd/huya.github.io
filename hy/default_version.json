@@ -1,7 +1,7 @@
 {
-    "versionName": "2.1.13.1",
-    "download": "https://gitee.com/jayjd/hyy/releases/download/2.1.13.1/HuYa-2.1.13.1-20240531.apk",
-    "versionCode": 21131,
+    "versionName": "2.1.14",
+    "download": "https://gitee.com/jayjd/hyy/releases/download/2.1.14/HuYa-2.1.14-20240624.apk",
+    "versionCode": 21140,
     "admiration": "MoCh3v8XTJiEOQhSYo3WLj05JEJWwnndwwcf8FX747Q/dfH6oAaUT7FeWihCTpDwe4EE6fv8zSu7aiieFIbuQjE6fLd2Fky+QI/ou2oaM+ctpt/1+h1JXqWmEyetvlg81/9YnrPBIx4MCAwODwIG2v0xEm+Rn4PNmHcJrYuBQ0gwPCVg/QJ4fNsDGxx4L6ivxPTc10jbBJEi+THdaxaP/lc6XsK0GP2+yEWIhtAdJ++VVQA28D373H7RUjnhq2TzaC3Z69aUkRc+HhLfVhZPWY5BTRmcHmUZOCV5gzcv94XKCaBzJ3NQanjsbIyNrsmpMbw9Nfd9eicnsXB9EgED1GC4wKhyvPt/qVh2nb4KLdViXBTYR6KjSZ13r1CzI3XufOSFp0ce10wVY1ivRVVMBH85vgDmuX6dAdKMTMpjE7iyE5NVNwAHvn/fB2mXY9tj+g5MhuE/G2LPtikEe9AKO+3zgi0EvA+an7rX8mYnzbgUmC68f6tpOBgdf7SD/b9W9WGYecXkurS5t8DrcX3jHiUTIJCyb6MtIeAbb56qxZQpdX+U+Le+CRlHT5LRsrnrn4wMoUzxSZeIMzPyJpk8Xmviik5vUTrxIvkx3WsWj/5XOl7CtBj9vshFiIbQHSfvOLjjTPQ8uwfKjjXUfglbCw==",
     "entity":"c4BdJ+OTVMWUcOw2+oDd7aN6N0NdAVohfZwnPILzzvBIlaATHy+h4kaGzBYWQC+HoyfWhv+IK22e8DYZMKeSD5It+YRzzMxe1WNA1c3HjTRGhswWFkAvhwGbFxRevfDJoFA8lNOfTHZ51IBxd312dPGBAQi/hlU9sWk7Ci7CJWxsUUKXrmmbsfhwsYT75OeZB6/TM3Wy67uI+4TOHh4eur5/pz2PpBAw9WGYecXkurRhAXjjtwUflbyLSS0838mFRro3s2e+Yj0c+Wq1wXzsHsvzMxSANTOHzS5xD+olD0TXTH7SKIT1swlXuC7FJZuY0DoGB4nufMnB4xzroxabYKt2618bj8P/NcoGhpZnRMuFiXcCKjJbDuje7uVAUFYaN/HZxUq2YEwGQw/iek8iCEDNjUycC0bQ+dRvDpwNv7TsFK/H4kCPp42WU/fsbzGf",
     "type":"2Kg0apEWeo2oU+WitzoYOPVhmHnF5Lq0lwnGLWbaBw8jsCDCEAP+qA==",
@@ -9,5 +9,5 @@
 	    "XLive_Message":"未开播",
     "appreciate":0,
     "festival": "https://gitee.com/jayjd/hyt/releases/download/2.1.0/51.png",
-    "info":"HuYa 2.1.13.1 更新日志\n紧急修复 部分直播间奔溃的问题\nHuYa 2.1.13 更新日志\n1.增加 网易CC直播\n2.优化 部分机型YY直播闪退的问题\n3.修复 播放界面闪退的问题"
+    "info":"HuYa 2.1.14 更新日志\n1.修复 抖音弹幕问题\n2.修复 直播推送无法连接BUG\n3.优化 启动失败的问题"
 }
