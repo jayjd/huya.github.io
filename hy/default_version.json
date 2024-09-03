@@ -9,5 +9,6 @@
     "XLive_Message":"未开播",
     "appreciate":0,
     "festival": "https://gitee.com/jayjd/hyt/releases/download/2.1.0/51.png",
-    "info":"HuYa 2.1.17 更新日志\n1.修复 因清理文件缓存导致收藏夹被清空\n2.修复 清晰度,线路无法记忆\n3.升级 Exoplayer到最新版本\nPs:\n1)安装后,之前收藏夹的直播间会自动迁移 并清理原来的收藏数据\n2)如遇到安装失败的情况,请卸载当前的版本\n  到系统的Download目录下找到安装包自行安装"
+    "info":"HuYa 2.1.17 更新日志\n1.修复 因清理文件缓存导致收藏夹被清空\n2.修复 清晰度,线路无法记忆\n3.升级 Exoplayer到最新版本\nPs:\n1)安装后,之前收藏夹的直播间会自动迁移 并清理原来的收藏数据\n2)如遇到安装失败的情况,请卸载当前的版本\n  到系统的Download目录下找到安装包自行安装",
+    "isVersion":true
 }
