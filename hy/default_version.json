@@ -1,7 +1,7 @@
 {
-    "versionName": "2.1.18.3",
-    "download": "https://gitee.com/jayjd/hyy/releases/download/2.1.18.3/HuYa-2.1.18.3-20241017.apk",
-    "versionCode": 21183,
+    "versionName": "2.1.18.4",
+    "download": "https://gitee.com/jayjd/hyy/releases/download/2.1.18.4/HuYa-2.1.18.4-20241018.apk",
+    "versionCode": 21184,
     "admiration": "MoCh3v8XTJiEOQhSYo3WLj05JEJWwnndwwcf8FX747Q/dfH6oAaUT7FeWihCTpDwe4EE6fv8zSu7aiieFIbuQjE6fLd2Fky+QI/ou2oaM+ctpt/1+h1JXqWmEyetvlg81/9YnrPBIx4MCAwODwIG2v0xEm+Rn4PNmHcJrYuBQ0gwPCVg/QJ4fNsDGxx4L6ivxPTc10jbBJEi+THdaxaP/lc6XsK0GP2+yEWIhtAdJ++VVQA28D373H7RUjnhq2TzaC3Z69aUkRc+HhLfVhZPWY5BTRmcHmUZOCV5gzcv94XKCaBzJ3NQanjsbIyNrsmpMbw9Nfd9eicnsXB9EgED1GC4wKhyvPt/qVh2nb4KLdViXBTYR6KjSZ13r1CzI3XufOSFp0ce10wVY1ivRVVMBH85vgDmuX6dAdKMTMpjE7iyE5NVNwAHvn/fB2mXY9tj+g5MhuE/G2LPtikEe9AKO+3zgi0EvA+an7rX8mYnzbgUmC68f6tpOBgdf7SD/b9W9WGYecXkurS5t8DrcX3jHiUTIJCyb6MtIeAbb56qxZQpdX+U+Le+CRlHT5LRsrnrn4wMoUzxSZeIMzPyJpk8Xmviik5vUTrxIvkx3WsWj/5XOl7CtBj9vshFiIbQHSfvOLjjTPQ8uwfKjjXUfglbCw==",
     "entity":"c4BdJ+OTVMWUcOw2+oDd7aN6N0NdAVohfZwnPILzzvBIlaATHy+h4kaGzBYWQC+HoyfWhv+IK22e8DYZMKeSD5It+YRzzMxe1WNA1c3HjTRGhswWFkAvhwGbFxRevfDJoFA8lNOfTHZ51IBxd312dPGBAQi/hlU9sWk7Ci7CJWxsUUKXrmmbsfhwsYT75OeZB6/TM3Wy67uI+4TOHh4eur5/pz2PpBAw9WGYecXkurRhAXjjtwUflbyLSS0838mFRro3s2e+Yj0c+Wq1wXzsHsvzMxSANTOHzS5xD+olD0TXTH7SKIT1swlXuC7FJZuY0DoGB4nufMnB4xzroxabYKt2618bj8P/NcoGhpZnRMuFiXcCKjJbDuje7uVAUFYaN/HZxUq2YEwGQw/iek8iCEDNjUycC0bQ+dRvDpwNv7TsFK/H4kCPp42WU/fsbzGf",
     "type":"2Kg0apEWeo2oU+WitzoYOPVhmHnF5Lq0lwnGLWbaBw8jsCDCEAP+qA==",
@@ -9,6 +9,6 @@
     "XLive_Message":"未开播",
     "appreciate":0,
     "festival": "https://gitee.com/jayjd/hyt/releases/download/2.1.0/51.png",
-    "info":"HuYa 2.1.18.3 更新日志\n1.优化 M3U解析兼容性 2.增加 台标显示和选台记忆\n3.菜单键 呼出设置（直播源选择，画面比例）\n4.增加 启动首选项（游戏直播，电视直播）\n5.支持 TVBOX直播源\n6.修复若干BUG\n18版本历史更新\n1.优化 m3u本地源和在线源的解析 2.增加 本地源的上传\n3.增加 直播页本地源和在线源的切换(按菜单键)\n4.修复 直播息屏问题\t5.修复 快手导航内容错位问题\n6.增加 直播间历史记录\t7.增加 tv直播（需自行配置直播源）\n8.修复 斗鱼直播列表不显示封面\nPs:如遇到安装失败的情况,请卸载当前的版本到系统的Download目录下找到安装包自行安装",
+    "info":"HuYa 2.1.18.4 更新日志\n1.优化 软件启动初始化的速度\n2.优化 本地源不用重命名文件名为tv.txt,支持(txt,m3u,m3u8)格式的文件\nHuYa 2.1.18.3 更新日志\n1.优化 M3U解析兼容性 2.增加 台标显示和选台记忆\n3.菜单键 呼出设置（直播源选择，画面比例）\n4.增加 启动首选项（游戏直播，电视直播）\n5.支持 TVBOX直播源\n6.修复若干BUG\nPs:如遇到安装失败的情况,请卸载当前的版本到系统的Download目录下找到安装包自行安装",
     "isVersion":true
 }
