@@ -7,7 +7,7 @@
     "type":"2Kg0apEWeo2oU+WitzoYOPVhmHnF5Lq0lwnGLWbaBw8jsCDCEAP+qA==",
     "XLive":"MTp8t3YWTL7/tn0P+SLHDeFhLb89dPy+aBDrIAAGXIjOFiWTsJR71Q==",
     "XLive_Message":"未开播",
-    "appreciate":0,
+    "appreciate":1,
     "festival": "https://gitee.com/jayjd/hyt/releases/download/2.1.0/51.png",
     "info":"HuYa 2.1.18.4 更新日志\n1.优化 软件启动初始化的速度\n2.优化 本地源不用重命名文件名为tv.txt,支持(txt,m3u,m3u8)格式的文件\nHuYa 2.1.18.3 更新日志\n1.优化 M3U解析兼容性 2.增加 台标显示和选台记忆\n3.菜单键 呼出设置（直播源选择，画面比例）\n4.增加 启动首选项（游戏直播，电视直播）\n5.支持 TVBOX直播源\n6.修复若干BUG\nPs:如遇到安装失败的情况,请卸载当前的版本到系统的Download目录下找到安装包自行安装",
     "isVersion":true
