@@ -1,9 +1,25 @@
 <!DOCTYPE html>
 <html>
 
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="//unpkg.com/layui@2.8.0/dist/css/layui.css">
+  <script src="//unpkg.com/layui@2.8.0/dist/layui.js"></script>
+</head>
+
 <body>
 
-  <button onclick="scanNetwork()">扫描并打开8383端口地址（局域网）</button>
+  <div class="layui-container">
+    <div class="layui-row">
+      <div class="layui-col-md12">
+        <button class="layui-btn" onclick="scanNetwork()">扫描并打开 8383 端口地址（局域网）</button>
+      </div>
+    </div>
+    <div class="layui-row">
+      <div class="layui-col-md12" id="resultMessage"></div>
+    </div>
+  </div>
 
   <script>
     async function scanNetwork() {
@@ -12,6 +28,9 @@
 
       const ipParts = localIP.split('.');
       const localNetworkPrefix = ipParts.slice(0, 3).join('.');
+
+      // 清空之前可能存在的结果提示信息
+      document.getElementById('resultMessage').innerHTML = '';
 
       // 遍历局域网内可能的IP地址（这里简单假设最后一位从1到254）
       for (let i = 1; i <= 254; i++) {
@@ -33,6 +52,9 @@
           continue;
         }
       }
+
+      // 扫描完所有IP后，如果没有找到可用的，给出提示信息
+      document.getElementById('resultMessage').innerHTML = '扫描完成，未找到局域网内 8383 端口可用的IP地址。';
     }
   </script>
 
