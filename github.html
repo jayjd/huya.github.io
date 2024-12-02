@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+
+  <button onclick="scanNetwork()">扫描并打开8383端口地址（局域网）</button>
+
+  <script>
+    async function scanNetwork() {
+      // 获取当前设备的IP地址，这里假设已经通过某种方式（如手动配置等）知道了本机在局域网内的IP地址
+      const localIP = "192.168.1.100"; // 请替换为你实际的局域网IP地址
+
+      const ipParts = localIP.split('.');
+      const localNetworkPrefix = ipParts.slice(0, 3).join('.');
+
+      // 遍历局域网内可能的IP地址（这里简单假设最后一位从1到254）
+      for (let i = 1; i <= 254; i++) {
+        const targetIP = `${localNetworkPrefix}.${i}`;
+        const urlToCheck = `http://${targetIP}:8383`;
+
+        try {
+          const response = await fetch(urlToCheck, {
+            method: 'HEAD',
+            mode: 'no-cors'
+          });
+          if (response.ok) {
+            // 如果请求成功，说明端口可能可用，打开该地址
+            window.open(urlToCheck);
+            break;
+          }
+        } catch (error) {
+          // 如果请求失败，继续尝试下一个IP
+          continue;
+        }
+      }
+    }
+  </script>
+
+</body>
+
+</html>
