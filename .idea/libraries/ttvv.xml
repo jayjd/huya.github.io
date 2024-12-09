@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="ttvv">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ttvv/fty.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ttvv/Yoursmile.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ttvv/XBiubiuLA4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ttvv/a620.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ttvv/2212.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
